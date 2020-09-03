@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aaditkamat)
 
 - 🏢 I've previously interned with [NUS IT](https://nusit.nus.edu.sg/), [Autodesk](https://www.autodesk.com.sg/) and [Learnseeker](https://learnseeker.com/) 
-- 🌱 I’m currently learning Programming Language Concepts, Machine Learning and Natural Language Processing
+- 🌱 I’m currently taking courses on Programming Language Concepts, Machine Learning and Natural Language Processing
 - 👯 I’m looking to collaborate on any full stack web development project
 - 🤔 I'm looking for help with learning about UI design
 - 💬 Ask me about my experiences as a Computer Science student at NUS and my previous internships
