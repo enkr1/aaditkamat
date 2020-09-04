@@ -11,7 +11,12 @@
      - Personal: aadit.k12@gmail.com
      - School: aadit_kamat@u.nus.edu
 - 😀 Fun fact: I have made new friends online over the summer from different parts of the world due to communities <t> like [intern.club](https://intern.club) and [lunchclub.ai](https://lunchclub.ai/)
-
+     
 My GitHub stats: 
-
+     
 ![Aadit's github stats](https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true)
+
+Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat)
+
