@@ -14,9 +14,12 @@
      
 My GitHub stats: 
      
-![Aadit's github stats](https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true)
+![Aadit's github stats](https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true)
 
 Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact&langs_count=10)
 
+Wakatime Stats:
+
+[![Aadit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aaditkamat)
