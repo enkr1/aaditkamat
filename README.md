@@ -12,25 +12,11 @@
      - School: aadit_kamat@u.nus.edu
 - 😀 Fun fact: I have made new friends online over the summer from different parts of the world due to communities <t> like [intern.club](https://intern.club) and [lunchclub.ai](https://lunchclub.ai/)
      
-My GitHub stats: 
+**🐱 My Github Data**  
      
 ![Aadit's github stats](https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 319 Contributions in the Year 2020
- > 
-> 📦 151.9 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 51 Public Repositories
- > 
-> 🔑 8 Private Repositories 
-
 **I'm an Early 🐤** 
 
 ```text
@@ -68,12 +54,6 @@ Text                     1 hr 11 mins        ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  36 hrs 12 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-CS4248                   25 hrs 37 mins      █████████████████░░░░░░░░   70.75% 
-CS2104                   10 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   27.69% 
-pos-bigram-tagger        29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
-dailycodebase            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 💻 Operating System: 
 Mac                      36 hrs 12 mins      █████████████████████████   100.0%
