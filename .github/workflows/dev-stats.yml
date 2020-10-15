@@ -3,7 +3,7 @@ name: Profile Readme Development Stats
 on:
   schedule:
     # Runs at 9 am SGT
-    - cron: '54 02 * * *'
+    - cron: '45 02 * * *'
 
 jobs:
   update-readme:
