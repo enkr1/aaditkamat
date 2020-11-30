@@ -2,9 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aaditkamat)
 
-- 🏢 I've previously interned with [NUS IT](https://nusit.nus.edu.sg/), [Autodesk](https://www.autodesk.com.sg/) and [Learnseeker](https://learnseeker.com/) 
-- 🌱 I’m currently taking courses on Programming Language Concepts, Machine Learning and Natural Language Processing
-- 👯 I'm happy to collaborate on any full stack web development project
+- 🏢 I'm currently interning at [Atomionics](https://www.sginnovate.com/investments/atomionics) under the SGInnovate programme
+- 👯 I'm happy to collaborate on any web development or data science project
 - 💬 Ask me about my experiences as a Computer Science student at NUS and my previous internships
 - 📫 How to reach me: 
      - Personal: aadit.k12@gmail.com
