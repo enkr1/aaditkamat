@@ -1,7 +1,5 @@
 ### I am Aadit Kamat, a final year student at the NUS School of Computing
 
-![Profile Views](https://komarev.com/ghpvc/?username=aaditkamat)
-
 - 🏢 I'm currently interning at [Atomionics](https://www.sginnovate.com/investments/atomionics) under the SGInnovate programme
 - 👯 I'm happy to collaborate on any web development or data science project
 - 💬 Ask me about my experiences as a Computer Science student at NUS and my previous internships
