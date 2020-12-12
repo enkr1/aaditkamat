@@ -13,15 +13,15 @@
 ![Aadit's github stats](https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 520 Contributions in the Year 2020
+> 🏆 527 Contributions in the Year 2020
  > 
-> 📦 163.3 kB Used in Github's Storage 
+> 📦 163.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -58,17 +58,17 @@ Sunday       41 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   35.12% 
-Python                   1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   26.16% 
-HTML                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.79% 
-Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.59%
+JavaScript               2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.67% 
+HTML                     1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.9% 
+Python                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.11% 
+CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.98%
 
 🔥 Editors: 
-VS Code                  6 hrs 5 mins        █████████████████████████   100.0%
+VS Code                  4 hrs 47 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      6 hrs 5 mins        █████████████████████████   100.0%
+Mac                      4 hrs 47 mins       █████████████████████████   100.0%
 
 ```
 
