@@ -13,15 +13,15 @@
 ![Aadit's github stats](https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 527 Contributions in the Year 2020
  > 
-> 📦 163.4 kB Used in Github's Storage 
+> 📦 163.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -58,17 +58,17 @@ Sunday       41 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.67% 
-HTML                     1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.9% 
-Python                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.11% 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.98%
+JavaScript               2 hrs 8 mins        ████████████░░░░░░░░░░░░░   51.43% 
+HTML                     1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   27.52% 
+JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.19% 
+CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.89% 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.95%
 
 🔥 Editors: 
-VS Code                  4 hrs 47 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 9 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      4 hrs 47 mins       █████████████████████████   100.0%
+Mac                      4 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
