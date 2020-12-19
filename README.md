@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16602%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -65,6 +65,12 @@ Git Config               19 mins             ░░░░░░░░░░░�
 
 🔥 Editors: 
 PyCharm                  12 hrs 50 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+artiq-experiments        9 hrs 47 mins       ███████████████████░░░░░░   76.25% 
+artiq                    3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
+job-matcher              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
 Windows                  12 hrs 50 mins      █████████████████████████   100.0%
