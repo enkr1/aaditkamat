@@ -12,9 +12,9 @@
 ![Aadit's github stats](https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16602%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -65,13 +65,6 @@ reStructuredText         19 mins             ░░░░░░░░░░░�
 
 🔥 Editors: 
 PyCharm                  15 hrs 38 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-artiq-experiments        9 hrs 47 mins       ███████████████░░░░░░░░░░   62.6% 
-artiq                    3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   19.32% 
-waka-readme-stats        2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-job-matcher              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
 Windows                  12 hrs 50 mins      ████████████████████░░░░░   82.11% 
