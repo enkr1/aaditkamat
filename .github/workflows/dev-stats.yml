@@ -2,7 +2,7 @@ name: Profile Readme Development Stats
 
 on:
   schedule:
-    # Runs at 11:00 am SGT
+    # Runs at 9:30 am SGT
     - cron: '30 01 * * *'
 
 jobs:
